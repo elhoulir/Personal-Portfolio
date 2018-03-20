@@ -1,0 +1,14 @@
+<svg width="53" height="71" viewBox="0 0 53 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>css3-alt</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(2020 8840)">
+<g id="css3-alt">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-2020 -8840)" fill="#0C6291"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 4.81693 62.7272L 26.5 71L 48.1831 62.7272L 53 0L 0 0ZM 43.2143 12.6786L 42.5518 20.1748L 26.638 27.9879L 26.5966 28.0038L 41.9859 28.0038L 40.2193 51.2373L 26.6656 55.7857L 13.0292 51.158L 12.1458 39.4462L 18.8951 39.4462L 19.3367 45.5161L 26.5966 47.6239L 34.1464 45.1833L 34.657 35.4208L 11.7042 35.3415L 11.7042 35.3257L 11.6766 35.3415L 11.1797 28.0038L 26.6518 20.6027L 27.549 20.1748L 10.5862 20.1748L 9.78568 12.6786L 43.2143 12.6786Z"/>
+</defs>
+</svg>

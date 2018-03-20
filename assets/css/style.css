@@ -1,0 +1,194 @@
+
+body {
+    background-color: #F1EAE0;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+header {
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+    padding-top: 20px;
+    padding-bottom: 0.5em; 
+    background-color: #7F0E28;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 22px;
+}
+
+.brand {
+    position: relative;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-family: 'PT Sans';
+    display: inline-block;
+    flex-direction: row;
+    align-items: center;
+    margin: 4px 4px 4px 4px 
+  
+}
+
+.red-block {
+    padding-top: 9em;
+    padding-bottom: 4em;
+    background-color: #7F0E28;
+    width: 100%;
+    text-align: center;
+}
+.name {
+    display: block;
+    margin: 0px;
+    justify-content: center;
+    font-size: 60px;
+    font-family: 'Cinzel', serif;    
+    color: #A36527;
+    text-align: center;
+    width: 100%;
+}
+
+.blue-block {
+    padding-top: 5em;
+    background-color: #0C6291; 
+}
+
+.brief{
+    text-align: center;
+    padding: 1.5em;
+    padding-top: 0.5em;
+    font-family: PT Sans;
+    font-size: 25px;
+    /* background-color: white; */
+}
+
+.brief article {
+    max-width: 30em;
+    margin: 0 auto;
+}
+
+.about-title { 
+    text-align: center;
+    font-family: 'PT Sans';
+    color: #35A0C6;
+    font-size: 40px;
+    margin: 0;
+    margin-top: 0.5em;
+}
+.about-section {
+    font-family: 'PT Sans';
+    text-align: center;
+    padding: 1em;
+    padding-bottom: 0.5em;
+    font-size: 28px;
+    padding-top: 0em;
+}
+
+.about-section article {
+    max-width: 30em;
+    margin: 0 auto;
+}
+.skills-section{
+    font-family: 'PT Sans';
+    text-align: center;
+    padding: 1em;
+    font-size: 28px;
+    padding-top: 0em;
+    padding-bottom: 0em;   
+}
+.skills-title {
+    text-align: center;
+    font-family: 'PT Sans';
+    color: #35A0C6;
+    font-size: 40px;
+    margin-top: 0em;
+    padding-top: 0em;
+}
+
+.skills-section article {
+    max-width: 30em;
+    margin: 0 auto;   
+}
+
+hr {
+    color:#0C6291;
+    background-color:#0C6291;
+    height: 2px;
+    margin: 0 auto;
+    max-width: 30em;
+}
+
+.dev-icons {
+    max-width: 40em;
+    margin: 0 auto;
+}
+
+.dev-icon-one {
+    display: flex;
+    justify-content: space-around ;
+    padding: 1.5em;
+    padding-bottom: 2em;
+}
+.dev-icon-two {
+    display: flex;
+    justify-content: space-around;
+    padding: 1.5em;
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+
+}
+.dev-icon-three {
+    display: flex;
+    justify-content: space-around ;
+    padding: 1.5em;
+    padding-bottom: 4em;
+}
+
+.footer {
+    padding: 2em;
+    bottom: 0px;
+    background-color: #0C6291;    
+}
+
+.social-icon-one {
+    display: flex;
+    justify-content: space-around;
+    padding: 0.5em;   
+    max-width: 50em;
+    margin: 0 auto;
+}
+.social-icon-two {
+    display: flex;
+    justify-content: space-around;
+    padding: 0.5em;
+    max-width: 50em;
+    margin: 0 auto;
+}
+
+.work-section {
+    font-family: 'PT Sans';
+    text-align: center;
+    padding: 1em;
+    padding-bottom: 0.5em;
+    font-size: 28px;
+    padding-top: 0em;
+}
+
+.work-title { 
+    text-align: center;
+    font-family: 'PT Sans';
+    color: #35A0C6;
+    font-size: 40px;
+    margin: 0;
+    margin-top: 0.5em;
+}
+
+.work-section article {
+     max-width: 30em;
+    margin: 0 auto;   
+}
+
