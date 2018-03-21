@@ -17,10 +17,11 @@ header {
     align-items: center;
     justify-content: space-around;
     font-size: 22px;
+    box-sizing: border-box;
 }
 
 .brand {
-    position: relative;
+    /* position: relative; */
 }
 
 .menu a {
@@ -41,7 +42,7 @@ header {
     width: 100%;
     text-align: center;
 }
-.name {
+.my-name {
     display: block;
     margin: 0px;
     justify-content: center;
@@ -151,7 +152,8 @@ hr {
 .footer {
     padding: 2em;
     bottom: 0px;
-    background-color: #0C6291;    
+    background-color: #0C6291;  
+    padding-top:   
 }
 
 .social-icon-one {
@@ -173,9 +175,9 @@ hr {
     font-family: 'PT Sans';
     text-align: center;
     padding: 1em;
-    padding-bottom: 0.5em;
+    padding-bottom: 1em;
     font-size: 28px;
-    padding-top: 0em;
+    padding-top: 1em;
 }
 
 .work-title { 
@@ -188,7 +190,81 @@ hr {
 }
 
 .work-section article {
-     max-width: 30em;
+    max-width: 30em;
     margin: 0 auto;   
+}
+
+.contact-title { 
+    text-align: center;
+    font-family: 'PT Sans';
+    color: #35A0C6;
+    font-size: 40px;
+    margin-top: 1em;
+    padding-top: 1em;
+    padding: 0em;
+}
+
+.contact-section {
+    font-family: 'PT Sans';
+    text-align: center;
+    padding: 1em;
+    padding-bottom: 1.5em;
+    font-size: 28px;
+    padding-top: 0em;
+    max-width: 30em;
+    margin: 0 auto;   
+}
+
+form {
+    font-family: 'PT Sans';
+    font-size: 25px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+label {
+    color: #7F0E28;
+    padding: 0em;
+    margin: 2em;
+    /* font-size: 1.6em; */
+}
+
+input, textarea {
+    width: 100%;
+    background: transparent;
+    color: #A36527;
+    border: none;
+    min-height: 3em;
+    border-bottom: 2px solid #A36527;
+    box-sizing: border-box;
+    font-size: 25px;
+    /* text-align: center; */
+    padding: 1em;
+}
+
+form p {
+    max-width: 30em;
+    margin: 0 auto;
+    font-size: 25px;
+    margin-top: 1em;
+}
+
+button {
+    /* padding: 0em; */
+    background: transparent;
+    border-bottom-width: 2px;
+    border: none;
+    font-size: 25px;
+    color: #A36527;
+    text-align: center;
+    padding-bottom: 2em;
+    margin-left: 2em;
+}
+
+.name-section {
+    padding-bottom: 1em;
+}
+.email-section {
+    padding-bottom: 1em;
+    padding-top: 1em;
 }
 
