@@ -89,3 +89,10 @@ LOGO:
 MOBILE VIEW:
 
 ![mobile](assets/readme/final-view-mobile.png)
+
+# **Challenges**
+
+I struggled a lot with my top Menu bar; I couldn't get it to stay fixed to the top of the page and within the max margins set. 
+
+I also struggled a lot with my contact form, I couldn't get it to stay centered for desktop view. 
+
