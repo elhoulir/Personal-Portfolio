@@ -78,6 +78,10 @@ Here are the drafts of my work, I played around with it until I got to my final 
 
 ![drafts](assets/readme/drafts-mobile.png)
 
+Below is an image of my whole design process:
+
+![figma](assets/readme/figma.png)
+
 # **Final Designs**
 
 Here are my final designs for my logo and my mobile view for the website. 
