@@ -20,9 +20,6 @@ header {
     box-sizing: border-box;
 }
 
-.brand {
-    /* position: relative; */
-}
 
 .menu a {
     color: white;
@@ -31,41 +28,35 @@ header {
     display: inline-block;
     flex-direction: row;
     align-items: center;
-    margin: 4px 4px 4px 4px 
+    margin: 4px 
   
 }
 
 .red-block {
-    padding-top: 9em;
-    padding-bottom: 4em;
+    padding-top: 7em;
+    padding-bottom: 2em;
     background-color: #7F0E28;
-    width: 100%;
+    /* width: 100%; */
     text-align: center;
 }
 
 .my-name {
-    display: block;
     margin: 0px;
-    justify-content: center;
     font-size: 60px;
     font-family: 'Cinzel', serif;    
     color: #A36527;
-    text-align: center;
-    width: 100%;
 }
 
 .blue-block {
-    padding-top: 5em;
+    padding-top: 4em;
     background-color: #0C6291; 
 }
 
 .brief{
     text-align: center;
-    padding: 1.5em;
-    padding-top: 0.5em;
+    padding: 1em;
     font-family: PT Sans;
     font-size: 25px;
-    /* background-color: white; */
 }
 
 .brief article {
